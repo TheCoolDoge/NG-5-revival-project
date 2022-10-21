@@ -1,3 +1,3 @@
-# Antimatter Dimensions - NG+5 Version
-This is my modification of Aarex's modification of Antimatter Dimensions. It's modception now.
-Note: If any bugs are present, please let me know at REDACTED :)
+# Antimatter Dimensions - NG+5 Version revival project
+All of the credits go to the original creators, Hevipelle (Who made Antimatter Dimensions) and Jacorb90 (Who made NG+5).
+In order to make the mod work you must import this save file for the time being: https://pastebin.com/Q55eg67C
